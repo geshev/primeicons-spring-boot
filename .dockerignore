@@ -1,0 +1,13 @@
+.git
+.gitignore
+.idea
+dockerfile
+src
+build
+build.gradle
+CHANGELOG.md
+gradlew
+gradlew.bat
+settings.gradle
+README.md
+!build/libs/icons-*
